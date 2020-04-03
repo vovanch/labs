@@ -1,0 +1,7 @@
+C:\Users\crazz\Desktop\Labs-master\Lab4Komi\bin\Debug\Lab4Komi.exe.config
+C:\Users\crazz\Desktop\Labs-master\Lab4Komi\bin\Debug\Lab4Komi.exe
+C:\Users\crazz\Desktop\Labs-master\Lab4Komi\bin\Debug\Lab4Komi.pdb
+C:\Users\crazz\Desktop\Labs-master\Lab4Komi\obj\Debug\Lab4Komi.csprojAssemblyReference.cache
+C:\Users\crazz\Desktop\Labs-master\Lab4Komi\obj\Debug\Lab4Komi.csproj.CoreCompileInputs.cache
+C:\Users\crazz\Desktop\Labs-master\Lab4Komi\obj\Debug\Lab4Komi.exe
+C:\Users\crazz\Desktop\Labs-master\Lab4Komi\obj\Debug\Lab4Komi.pdb
