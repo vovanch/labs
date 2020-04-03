@@ -1,0 +1,11 @@
+C:\Users\crazz\source\repos\lab1.2\lab1.2\obj\Debug\netcoreapp2.1\lab1.2.csprojAssemblyReference.cache
+C:\Users\crazz\source\repos\lab1.2\lab1.2\obj\Debug\netcoreapp2.1\lab1.2.csproj.CoreCompileInputs.cache
+C:\Users\crazz\source\repos\lab1.2\lab1.2\obj\Debug\netcoreapp2.1\lab1.2.AssemblyInfoInputs.cache
+C:\Users\crazz\source\repos\lab1.2\lab1.2\obj\Debug\netcoreapp2.1\lab1.2.AssemblyInfo.cs
+C:\Users\crazz\source\repos\lab1.2\lab1.2\bin\Debug\netcoreapp2.1\lab1.2.deps.json
+C:\Users\crazz\source\repos\lab1.2\lab1.2\bin\Debug\netcoreapp2.1\lab1.2.runtimeconfig.json
+C:\Users\crazz\source\repos\lab1.2\lab1.2\bin\Debug\netcoreapp2.1\lab1.2.runtimeconfig.dev.json
+C:\Users\crazz\source\repos\lab1.2\lab1.2\bin\Debug\netcoreapp2.1\lab1.2.dll
+C:\Users\crazz\source\repos\lab1.2\lab1.2\bin\Debug\netcoreapp2.1\lab1.2.pdb
+C:\Users\crazz\source\repos\lab1.2\lab1.2\obj\Debug\netcoreapp2.1\lab1.2.dll
+C:\Users\crazz\source\repos\lab1.2\lab1.2\obj\Debug\netcoreapp2.1\lab1.2.pdb
