@@ -1,0 +1,22 @@
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\obj\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.dll
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.dll
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.xml
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.xml
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\Garlic\Documents\Visual Studio 2015\Projects\Lab_1\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab2\Lab_2\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\НУЛП\Дискретні моделі в САПР\Lab2\Lab_2\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\НУЛП\Дискретні моделі в САПР\Lab2\Lab_2\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

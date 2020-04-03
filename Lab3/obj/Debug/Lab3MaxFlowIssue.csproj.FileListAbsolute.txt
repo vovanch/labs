@@ -1,0 +1,7 @@
+C:\Users\crazz\Desktop\Labs-master\Lab3MaxFlowIssue\bin\Debug\Lab3MaxFlowIssue.exe.config
+C:\Users\crazz\Desktop\Labs-master\Lab3MaxFlowIssue\bin\Debug\Lab3MaxFlowIssue.exe
+C:\Users\crazz\Desktop\Labs-master\Lab3MaxFlowIssue\bin\Debug\Lab3MaxFlowIssue.pdb
+C:\Users\crazz\Desktop\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.csprojAssemblyReference.cache
+C:\Users\crazz\Desktop\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.csproj.CoreCompileInputs.cache
+C:\Users\crazz\Desktop\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.exe
+C:\Users\crazz\Desktop\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.pdb
